@@ -6,6 +6,11 @@
     GO_IMPORT_PATH = "github.com/cbosss/functions-playground"
 
 [[redirects]]
+    from = "/"
+    to = "/.netlify/functions/dump"
+    status = 200
+
+[[redirects]]
     from = "/*"
     to = "/.netlify/functions/dump"
     status = 200
