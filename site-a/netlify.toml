@@ -1,5 +1,5 @@
 [[redirects]]
-    from = "/root/*"
+    from = "/broken/*"
     to = "https://cbosss-site-b.netlify.app"
     status = 200
 
