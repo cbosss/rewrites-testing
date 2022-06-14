@@ -9,6 +9,7 @@
     from = "/"
     to = "/.netlify/functions/dump"
     status = 200
+    force = true
 
 [[redirects]]
     from = "/*"
