@@ -7,5 +7,5 @@
 
 [[redirects]]
     from = "/*"
-    to = "https://cbosss-site-b.netlify.app/.netlify/functions/:splat"
+    to = "https://cbosss-site-b.netlify.app/.netlify/functions"
     status = 200
