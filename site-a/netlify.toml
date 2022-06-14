@@ -4,6 +4,11 @@
     status = 200
 
 [[redirects]]
+    from = "/fixed/*"
+    to = "https://cbosss-site-b.netlify.app/"
+    status = 200
+
+[[redirects]]
     from = "/splat/*"
     to = "https://cbosss-site-b.netlify.app/:splat"
     status = 200
